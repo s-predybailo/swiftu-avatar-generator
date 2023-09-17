@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Foundation
 
 public struct DefaultAvatar: View {
     public var user = User(fullName: "Test User")
